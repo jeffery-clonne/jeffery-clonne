@@ -8,4 +8,3 @@ _Boldly Engineering_
 ---
 
 - x: [creator/openclonne](@openclonne)
-- linked-in: [me/jeffery-clonne](https://www.linkedin.com/jeffery-osei)
