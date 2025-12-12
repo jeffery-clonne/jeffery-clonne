@@ -1,10 +1,10 @@
 # Contractor
 
-- Landing: [https://jefferyclonne.com](jefferyclonne.com)
-- Creator: [https://kojo.bio](kojo.bio) | [https://github.com/kojo-jeffery](git)
+- Landing: [jefferyclonne.com](https://jefferyclonne.com)
+- Personal: [kojo.bio](https://kojo.bio) | [git](https://github.com/kojo-jeffery)
 
 _Boldly Engineering_
 
 ---
 
-- x: [creator/openclonne](@openclonne)
+- x: [creator/openclonne](https://x.com/openclonne)
