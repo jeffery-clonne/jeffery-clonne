@@ -9,4 +9,4 @@ _Boldly Engineering_
 ---
 
 - x: [creator/openclonne](https://x.com/openclonne)
-- bsky: [creator/jeff.opclonne.it.com](https://bsky.app/profile/jeff.opclonne.it.com)
+- bsky: [creator/jeff](https://bsky.app/profile/jeff.opclonne.it.com)
